@@ -1,1 +1,1 @@
-say @p Please choose your difficulty before generating an island
+say @p[r=2] Please choose your difficulty before generating an island
