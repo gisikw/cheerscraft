@@ -6,5 +6,5 @@
 # resets that block's state, so it can be run again.
 # /clear @p[r=3] extendedcrafting:singularity -1 1
 
-blockdata ~2 ~ ~ {SuccessCount:0}
+blockdata ~ ~ ~2 {SuccessCount:0}
 prestige add @p 1
