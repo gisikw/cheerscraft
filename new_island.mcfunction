@@ -1,7 +1,6 @@
 # Island Spawn Logic
 # Whether the first time, or one of many many times
 
-# TODO: If they haven't selected a difficulty, tell them, and don't continue, once we have that in place
 clear @p
 advancement revoke @p everything
 function triumph:start_standard
